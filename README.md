@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate on machine learning.
 - 🤔 I’m looking for help with anyone can help:)
+- ⚡ Fun fact: Riding a motorcycle.
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Riding a motorcycle.
-
